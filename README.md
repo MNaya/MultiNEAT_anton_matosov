@@ -1,3 +1,6 @@
+MultiNEAT library taken from anton-matosov: https://github.com/MultiNEAT/MultiNEAT
+With some changes for singularity direct installation.
+
 
 Current build status
 ====================
